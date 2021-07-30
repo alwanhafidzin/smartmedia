@@ -1,6 +1,7 @@
 # smartmedia
 Apa itu Smartmedia? Smartmedia adalah website katalog toko buku dengan data dinamis dari database.untuk dokumentasi lengkap bisa dilihat di folder dokumentasi
 **Bahasa Pemrograman dan Database Yang digunakan : PHP Native,Javascript,Ajax**
+
 Fitur :
 1.Halaman Depan
 
